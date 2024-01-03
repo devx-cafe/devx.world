@@ -1,5 +1,5 @@
 ---
-title:  "Take your internship with The Tech Collective"
+title:  "Industrial DevOps by Suzette Johnson and Robin Yeman"
 search: true
 categories: 
   - Theory
