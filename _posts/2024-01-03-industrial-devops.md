@@ -2,7 +2,11 @@
 title:  "Take your internship with The Tech Collective"
 search: true
 categories: 
-  - Internship
+  - Theory
+  - Practice
+  - DevOps
+  - Lean
+  - Agile  
 ---
 
 # Industrial DevOps: A Comprehensive Guide
