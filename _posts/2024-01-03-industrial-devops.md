@@ -38,6 +38,7 @@ The book "Industrial DevOps: Build Better Systems Faster" provides a comprehensi
 Stay tuned for more insights and happy reading!
 
 References:
-(1) Industrial DevOps: Build Better... by Johnson, Dr. Suzette. https://www.amazon.com/Industrial-DevOps-Better-Systems-Faster/dp/195050879X.
-(2) What is Industrial DevOps? - IT Revolution. https://itrevolution.com/articles/what-is-industrial-devops/.
-(3) Industrial DevOps - IT Revolution. https://itrevolution.com/product/industrial-devops-book/.
+
+1. [Industrial DevOps: Build Better systems faster, by Johnson, Dr. Suzette](https://www.amazon.com/Industrial-DevOps-Better-Systems-Faster/dp/195050879X)
+2. [What is Industrial DevOps? - IT Revolution](https://itrevolution.com/articles/what-is-industrial-devops/)
+3. [Industrial DevOps - IT Revolution](https://itrevolution.com/product/industrial-devops-book/)
