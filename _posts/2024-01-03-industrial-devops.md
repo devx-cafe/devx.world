@@ -13,6 +13,10 @@ categories:
 
 Hello, readers! Today, I'm going to share with you a summary of an insightful book, "Industrial DevOps: Build Better Systems Faster" by Dr. Suzette Johnson and Robin Yeman¹. This book provides a comprehensive guide on how to apply Agile and DevOps principles in the development of cyber-physical systems².
 
+<p align="center">
+<a href="/assets/images/industrial-devops.jpg"><img src="/assets/images/industrial-devops.jpg" width="50%" align="center"></a>
+</p>
+
 ## What is Industrial DevOps?
 
 Industrial DevOps is the application of Lean, Agile, and DevOps principles to the planning, development, manufacturing, deployment, and serviceability of significant cyber-physical systems². It bridges the principles and practices of Agile, Lean, and DevOps with the unique needs and challenges of cyber-physical systems².
