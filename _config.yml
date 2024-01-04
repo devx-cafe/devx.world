@@ -158,6 +158,7 @@ exclude:
   - README.md
   - CONTRIBUTING.md
   - tmp
+  - reference
 keep_files:
   - .git
   - .svn
