@@ -1,9 +1,10 @@
 ---
 title:  "Industrial DevOps by Suzette Johnson and Robin Yeman"
 search: true
+author: Asser Fahrenholz
 categories: 
-  - Theory
-  - Practice
+  - Test & DevOps
+tags:
   - DevOps
   - Lean
   - Agile  
