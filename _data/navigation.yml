@@ -26,8 +26,8 @@ main:
     url: /year-archive/
   - title: "Events"
     url: /events/
-#  - title: "Sample Collections"
-#    url: /collection-archive/
+  - title: "Tutorials"
+    url: /tutorials/
   - title: "About"
     url: /about/
   - title: "🍪"

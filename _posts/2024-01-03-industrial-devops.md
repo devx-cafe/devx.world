@@ -8,6 +8,8 @@ tags:
   - DevOps
   - Lean
   - Agile  
+header:
+  teaser: /assets/images/industrial-devops.jpg
 ---
 
 # Industrial DevOps: A Comprehensive Guide

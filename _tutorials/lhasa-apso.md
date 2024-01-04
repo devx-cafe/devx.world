@@ -1,8 +1,17 @@
 ---
-title: "Lhasa Apso"
-excerpt: "The Lhasa Apso is a non-sporting dog breed originating in Tibet."
+title: DX (Developer Experience) intro
+excerpt: This tutorial introduces some of the features in the GitHub eco-system that will make your team go faster - in a very DevOpsy way.
+share: false
+tags:
+  - Tutorial
+category:
+  - Test &amp; DevOps
 ---
 
-> The Lhasa Apso (/ˈlɑːsə ˈæpsoʊ/ lah-sə ap-soh) is a non-sporting dog breed originating in Tibet. It was bred as an interior sentinel in the Buddhist monasteries, to alert the monks to any intruders who entered. Lhasa is the capital city of Tibet, and apso is a word in the Tibetan language meaning "bearded", so, Lhasa Apso simply means "long-haired Lhasa dog". There are, however, some who claim that the word "apso" is a form of the Tibetan word "rapso", meaning "goat-like", which would make the equivalent translation "wooly Lhasa dog".
 
-> <cite>From Wikipedia, the free encyclopedia</cite>
+**DX - Developer Experience. This tutorial introduces some of the features in the GitHub eco-system that will make your team go faster - in a very DevOpsy way.**
+
+![Exercise](/assets/images/exercise.png){: .align-left width="100"}
+This is a repo on GitHub, specifically designed as tutorial you can run simply by creating a copy of it (use it as a template). You own copy will have a handful of issues which you work your way through and in the process you learn about GitHub CodeSpaces, GitHub Actions, DevContainers, VS Code Extensions, gh command line interface and much more.
+
+[Go the tutorial on GitHub](https://github.com/kea-dev/dx-intro){: .btn .btn--success target="_blank"}

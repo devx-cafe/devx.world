@@ -6,6 +6,8 @@ tags:
   - Internship
 categories: 
   - Test & DevOps
+header:
+  teaser: /assets/images/tech-collective_internship.jpg
 ---
 ## ...or join us as a Junior Developer
 
