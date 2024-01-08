@@ -16,7 +16,7 @@ header:
 # Visualize and Organize Around the Flow of Value
 
 <p align="center">
-<a href="/assets/images/industrial-devops.jpg"><img src="/assets/images/industrial-devops-flow-of-value.jpg" width="50%" align="center"></a>
+<a href="/assets/images/industrial-devops-flow-of-value.jpg"><img src="/assets/images/industrial-devops-flow-of-value.jpg" width="50%" align="center"></a>
 </p>
 
 The first principle of Industrial DevOps is to visualize and organize around the flow of value instead of around functions. This principle emphasizes the importance of aligning multiple product teams for regular demonstration and [delivery of value][1].
