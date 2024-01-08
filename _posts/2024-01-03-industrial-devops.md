@@ -40,7 +40,7 @@ The authors have identified [nine key principles][2] that are effective in succe
 
 ## Conclusion
 
-The book "Industrial DevOps: Build Better Systems Faster" provides a comprehensive and actionable guide, empowering organizations to establish teams and capabilities that surpass the competition in both insight and agility. It's a must-read for anyone interested in the application of Agile and DevOps principles in the development of cyber-physical systems].
+The book "Industrial DevOps: Build Better Systems Faster" provides a comprehensive and actionable guide, empowering organizations to establish teams and capabilities that surpass the competition in both insight and agility. It's a must-read for anyone interested in the application of Agile and DevOps principles in the development of cyber-physical systems.
 
 Stay tuned for more insights and happy reading!
 
