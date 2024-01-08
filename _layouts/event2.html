@@ -1,0 +1,66 @@
+---
+layout: single
+---
+
+{% capture nowunix %}
+{{ 'now' | eventdate: '%s' | plus: 0 }}
+{% endcapture %}
+{% capture posttime %}
+{{ page.date | eventdate: '%s' | plus: 86400 }}
+{% endcapture %}
+{% capture datepassed %}
+{{ page.date | eventdate: '%s' | plus: 172800 }}
+{% endcapture %}
+
+
+
+<div class="article container-fluid">
+
+            <div class="header-image">
+                <img src="{{ page.image }}" alt="{{ page.title }}">
+            </div>
+
+
+            <h5 class="yellow-text"><i class="far fa-calendar-alt event-icon"></i> {{ page.eventdate  | date: '%d %B %Y' }}
+            </h5>
+            <h5><i class="far fa-clock"></i> {{ page.time }} <i class="fas fa-map-marker-alt"></i> {{ page.place }}</h5>
+
+
+            <h1>{{ page.title }}</h1>
+
+            {{ page.content }}
+
+
+            <span class="event-id" style="display: none;">{{ page.event-id }}</span>
+
+            <h5>Sign up</h5>
+
+
+            {% if posttime > nowunix %}
+
+            <div class="iframe-container">
+
+            <iframe class="responsive-iframe" src="https://www.eventbrite.co.uk/tickets-external?eid={{ page.event-id }}&ref=etckt"
+                            frameborder="0" marginheight="0" marginwidth="0" scrolling="yes" allowtransparency="true"></iframe>
+
+            </div>
+
+
+
+            {% else %}
+
+            {% if page.lang == "dk" %}
+            {% assign no_event_mes = "Der er ingen billetter, da eventet har været afholdt" %}
+            {% else %}
+            {% assign no_event_mes = "There is no tickets, because the event is in the past" %}
+
+            {% endif %}
+            <div class="no-event">
+                <p>{{ no_event_mes }}.</p>
+            </div>
+
+            {% endif %}
+
+
+
+</div>
