@@ -44,7 +44,6 @@ The book "Industrial DevOps: Build Better Systems Faster" provides a comprehensi
 
 Stay tuned for more insights and happy reading!
 
-If you have comments or questions, lets hear from you on <a href="https://github.com/orgs/thetechcollective/discussions/3">Github</a>
+If you have comments or questions, lets hear from you on [Github](href="https://github.com/orgs/thetechcollective/discussions/3)
 
-[1]: https://www.amazon.com/Industrial-DevOps-Better-Systems-Faster/dp/195050879X "Industrial DevOps on Amazon"
 [2]: https://itrevolution.com/articles/what-is-industrial-devops/ "What is Industrial DevOps?"
