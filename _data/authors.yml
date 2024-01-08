@@ -2,12 +2,15 @@
 Asser Fahrenholz:
   name        : Asser Fahrenholz
   avatar      : /assets/images/avatars/assofohdz.jpg
-  bio         : I am an Agile and DevOps advocate and strategist, with roots in ERP project management, architecture and development
+  bio         : Slow the f*** down and take a good long hard look at your software pipeline!
   location    : Herfølge, Denmark
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:asfa@thetechcollective.eu"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.fahrenholz.dk"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/assofohdz"
