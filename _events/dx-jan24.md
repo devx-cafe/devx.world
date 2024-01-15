@@ -1,5 +1,5 @@
 ---
-title: "Workshop: DX - Developer Experience"
+title: "Workshop: DX - Developer Experience with GitHub"
 layout: event2
 excerpt: Hands on workshop with advanced GitHub features such as DevContainers, CodeSpaces, Actions, GitHub CLI, CoPilot
 share: false
@@ -16,14 +16,10 @@ event:
 show-on-list: true
 ---
 
-Both Agile and DevOps are already gulped by software. To form an agile team and utilise all the whistles and bells from the paradigms of Continuous Delivery and DevOps today, one ought to simply attend to another of the world’s contemporary buzzes: Developer Experience — DX.
+**DX - "Developer Experience" and IDP - "Internal Development Platform" are some of the most consistent buzzes on the back of _DevOps Classic_ Come join us for a demo and a hands-on workshop on advanced GitHub features such as DevContainers, CodeSpaces, Actions, GitHub CLI, CoPilot.**
 {: .kicker}
 
-> **_"Software is Eating the World"_**
-
-Observe and understand the developer’s workflow, and then continuously improve and optimise — weed out waste. This informal hands-on presentation is an exploration of some of the newest and coolest features in GitHub – the world’s largest Developer Platform; CodeSpaces, DevContainers, VS Code Extensions, the GitHub CLI, GitHub Actions, CoPilot...
-
-It’s a short practical demonstration on how this cornucopia of a full-fledged DX platform is enabeling you to put the pedat to the metal, and improve your everyday worklife as a software developer.
+It’s a short practical demonstration on how this cornucopia of a full-fledged DX platform is enabeling you to put the pedal to the metal, and improve your everyday worklife as a software developer.
 
 There will be running code from stage!
 
