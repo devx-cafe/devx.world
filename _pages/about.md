@@ -1,21 +1,35 @@
 ---
 permalink: /about/
-title: "About"
+title: "About - The Tech Collective"
 excerpt: "The Tech Collective - Powerd by Implement"
-layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
-last_modified_at: 2022-05-27T11:59:26-04:00
-toc: true
+last_modified_at: 2024-01-16
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+**We are a tribe of agile teams with a passion for utilizing technology and digital solutions to drive meaningful outcomes. We are a collective of technologists, developers, testers, engineers, designers and enthusiasts who love to share our knowledge and experience with others.**
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
+And we're powered by Implement. That is; we're part of [Implement Management Consulting](https://implementconsultinggroup.com/){: target="_blank"} where we specialize in deep tech. You can say that we're the _tech artisans_ of Implement.
+
+The Tech Collective is an umbrella brand, with five self-organized hubs underneath. Each with a dedicated focus:
+
+- Conversatontal AI solutions 
+- Test & DevOps - Building Quality In
+- S/4HANA
+- Salesforce
+- Cyber Security
+
+### www.thetechcollctive<span style="color: red;">.eu</span>
+
+We have an offical web site [www.thetechcollective.eu](https://www.thetechcollective.eu){: target="_blank"} - go there if you want more details on how to [get in touch](https://thetechcollective.eu/get-in-touch/){: target="_blank"} or perhaps [join our collective](https://thetechcollective.eu/join-us/){: target="_blank"}.
+
+### www.thetechcollctive<span style="color: green;">.dev</span>
+
+The website your're at now is our `.dev` site. This is where we blog, share tutorials, training materials, Open Source components, offer slide decks, and where we regularly invite to events - most of them are free to attend.
+
+On these pages each author speakes with her or his own tone-of-voice.
+
+Our blogs have discussions enabled, and you are hereby encouraged to join the discussions, all it takes is a [GitHub Account](https://github.com/signup){: target="_blank"} (it's free).
+
+We maintain a [atom-xml feed](https://www.thetechcollective.dev/feed.xml){: target="_blank"} you can subscribe to it with your favorite feed reader, to stay updated if you want.
+
+### <span style="color: #ff9933;">github.com/</span>thetechcollective
+We also have an organization [@thetechcollective](https://github.com/thetechcollective) on GitHub. The [discussions](https://github.com/orgs/thetechcollective/discussions){: target="_blank"} there are open and a lot of stuff we have there is Open Source.
