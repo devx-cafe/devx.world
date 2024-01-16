@@ -12,7 +12,7 @@ event:
   image: /assets/images/the-toyota-way_2x3.png
   place: Hellerup, Strandvejen 54
   eventbrite-id: 795883618327
-  time: 16:30 - 19:30
+  time: "16:30 - 19:30"
 show-on-list: true
 ---
 

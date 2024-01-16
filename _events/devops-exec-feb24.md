@@ -14,7 +14,7 @@ event:
   image: /assets/images/events/devops-exec.png
   place: Copenhagen, Borgergade 111
   eventbrite-id: 795889174947
-  time: 16:30 - 19:30
+  time: "16:30 - 19:30"
 show-on-list: true
 ---
 

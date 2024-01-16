@@ -12,7 +12,7 @@ event:
   image: /assets/images/events/wire-win.png
   place: Hellerup, Strandvejen 54
   eventbrite-id: 795901180857
-  time: 16:30 - 19:30
+  time: "16:30 - 19:30"
 show-on-list: true
 ---
 

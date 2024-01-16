@@ -4,15 +4,15 @@ layout: event2
 excerpt: 'At this hackathon, we will introduce the concept "Flowtech" and discuss and demonstrate short code snipptes with a huge effect. Bring your laptop and hack along.'
 share: false
 header:
-  teaser: assets/images/events/flowtech-hack.png
+  teaser: /assets/images/events/flowtech-hack.png
 sidebar:
-  - text: "[Sign up](https://www.eventbrite.dk/e/795883618327){: .btn .btn--success target='_blank'}"
+  - text: "[Sign up](https://www.eventbrite.dk/e/795911511757){: .btn .btn--success target='_blank'}"
 event:
   date: 2024-03-28
-  image: assets/images/events/flowtech-hack.png
+  image: /assets/images/events/flowtech-hack.png
   place: Copenhagen, Borgergade 111
-  eventbrite-id: 795883618327
-  time: 16:30 - 19:30
+  eventbrite-id: 795911511757
+  time: "16:30 - 19:30"
 show-on-list: true
 ---
 

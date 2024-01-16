@@ -12,7 +12,7 @@ event:
   image: /assets/images/events/dx-wide.png
   place: Copenhagen, Borgergade 111
   eventbrite-id: 792964276497
-  time: 16:30 - 19:30
+  time: "16:30 - 19:30"
 show-on-list: true
 ---
 
