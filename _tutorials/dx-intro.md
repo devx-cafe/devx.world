@@ -4,6 +4,7 @@ excerpt: This tutorial introduces some of the features in the GitHub eco-system 
 share: false
 header:
   teaser: /assets/images/tutorials/github_exercise_teaser.png
+  og_image: /assets/images/page-header-og-image.png
 tags:
   - Tutorial
 category:
