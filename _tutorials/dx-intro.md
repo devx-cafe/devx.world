@@ -2,6 +2,8 @@
 title: DX (Developer Experience) intro
 excerpt: This tutorial introduces some of the features in the GitHub eco-system that will make your team go faster - in a very DevOpsy way.
 share: false
+header:
+  teaser: /assets/images/tutorials/github_exercise_teaser.png
 tags:
   - Tutorial
 category:
