@@ -3,6 +3,7 @@ title:  "Take your internship with The Tech Collective"
 search: true
 author: Lars Kruse
 hidden: true
+published: false
 tags:
   - Internship
 categories: 
