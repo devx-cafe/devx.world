@@ -31,7 +31,7 @@ In addition, technology can help teams to gather data on their value streams and
 
 By leveraging technology to visualize and organize around the flow of value, teams can improve their processes and deliver more value to their customers.
 
-If you have comments or questions, lets hear from you on [Github](href="https://github.com/orgs/thetechcollective/discussions/3)
+**Drop a comment below!**
 
 [1]: <https://itrevolution.com/articles/what-is-industrial-devops/> "What is Industrial DevOps"
 [2]: <https://itrevolution.com/articles/improve-flow-devops-value-stream/> "Understanding the Work in Our Value Stream and Improving Flow"
