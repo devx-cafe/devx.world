@@ -1,5 +1,57 @@
 ---
-layout: home
-author_profile: false
+title: "The Tech Colletive - .dev"
+layout: splash
 permalink: /
+date: 2024-01-17
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/index/splash.jpeg
+  actions:
+    - label: "Dive into our stories"
+      url: "/year-archive/"
+  caption: "The hall of our office in CPH city"
+excerpt: "You found our community site! We are a collective of tech enthusiasts, who love to share our knowledge and experience with others"
+intro: 
+  - excerpt: "We are a collective of technologists, developers, 
+      testers, engineers, CX'ers and enthusiasts with a passion for 
+      utilizing technology and digital solutions to drive meaningful 
+      outcomes. We love to share our knowledge and experience with others." 
+implement:
+  - excerpt: "<div style='color:rgb(32, 125, 144);'>Powered by Implement<sup>®</sup></div>
+      ...Think of us as the _tech artisans_ of [Implement Consulting Group](https://implementconsultinggroup.com/){: target='_blank'}."
+outro:
+  - excerpt: "The website your're at now is our `.dev` site. On these pages each author 
+    speakes with her or his own tone-of-voice. Our stories have discussions enabled, and 
+    you are encouraged to join and set your mark - all it takes is a GitHub Account."
+brand:
+  - excerpt: "We also have an offical brand site at `.eu` - there's a link to it in the footer"
+feature_row:
+  - image_path: /assets/images/index/story.jpeg
+    alt: "Stories"
+    title: "Stories"
+    excerpt: "Stories range from _tech_ to _opinionated_ posts - from the people in The Tech Collective."
+    url: /year-archive/
+    btn_label: "Read our stories"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/index/event2.jpeg
+    # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    alt: "Events"
+    title: "Events"
+    excerpt: "We host events regularly - They are fee to attend and open to all. Go where we go"
+    url: "/events/"
+    btn_label: "Join our events"
+    btn_class: "btn--primary "
+  - image_path: /assets/images/index/tutorial.jpeg
+    alt: "Tutorials"
+    title: "Tutorials"
+    excerpt: "We offer a growing library of free hands-on self-paced tutorials. Learn what we know."
+    url: "/tutorials/"
+    btn_label: "Learn with us"
+    btn_class: "btn--primary"
 ---
+{% include feature_row id="intro" type="center" %}
+{% include feature_row %}
+{% include feature_row id="implement" type="center" %}
+{% include feature_row id="outro" type="center" %}
+{% include feature_row id="brand" type="center" %}
