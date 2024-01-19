@@ -2,6 +2,7 @@
 title:  "Contemporary DevOps"
 search: true
 author: Lars Kruse
+toc: true
 tags:
   - DevOps
 categories: 
