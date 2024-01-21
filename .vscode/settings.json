@@ -1,0 +1,10 @@
+{
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:thetechcollective.dev}/.cspell/ttc-dictionary.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+# Custom Dictionary Words
+Andreessen
+Asser
+componentized
+Depeche
+Fahrenholz
+hackaton
+HANA
+jidoka
+kaizen
+kanban
+kata
+katas
+kruse
+Lakruzz
+Larusso
+Miyagi
+ohhh
+savvyness
+SDLC
+thetechcollective
+Yeman

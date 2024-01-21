@@ -1,0 +1,16 @@
+{
+    "version": "0.2",
+    "language": "en",
+    "dictionaryDefinitions": [
+        { "name": "ttc", "path": "./.cspell/ttc-dictionary.txt"}
+    ],
+    "dictionaries": [
+        "ttc"
+    ],
+    "languageSettings": [
+        { "languageId": "markdown", "dictionaries": ["ttc"] },
+        { "languageId": "plaintext", "dictionaries": ["ttc"] }
+    ]
+
+    
+}

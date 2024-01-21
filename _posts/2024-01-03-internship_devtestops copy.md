@@ -13,17 +13,17 @@ header:
 ---
 ## ...or join us as a Junior Developer
 
-**Our community is for joint development of products and features. But it is _also_ a carefully designed training field - a _dojo_ where you can come and do your _katas_. 
+**Our community is for joint development of products and features. But it is _also_ a carefully designed training field - a _dojo_ where you can come and do your _katas_.
 Read on if you are studying a relevant topic at B.Sc. or M.Sc. level and you are looking for either a full time internship or a student job in _real_ tech.**
 
 ![Tech Collective](https://github.com/thetechcollective/.github/assets/155492/8a3c62bb-c5ce-40b9-8fb3-88b29258b270){: .align-right width="300"}
 
+In The Tech Collective we're fascinated by the concept of building quality in - as opposed to try to glue it on to the product after it's released. This concept is not new at all. It's an ideal mentioned in the _Agile Manifesto_. It's the core of _Continuous Delivery_ and the _DevOps Culture_. And it's why we strive for _Automated testing_ - well, why we strive for _Automation_ in general.
 
-In The Tech Collective we're fascinated by the concept of building quality in - as opposed to try to glue it on to the product after it's released. This concept is not new at all. It's an ideal mentioned in the _Agile Manifesto_. It's the core of _Continuous Delivery_ and the _DevOps Culture_. And it's why we strive for _Automated testing_ - well, why we strive for _Automation_ in general. 
-
-<break clear="left"/> 
+<break clear="left"/>
 
 ## Anything as Code
+
 We believe in _anything as code._  
 
 If _"whatever you're trying to achieve"_ can be solved by a snippet of software, then your solution is software. It's code! And we know how to deal with code:
@@ -39,7 +39,7 @@ If _"whatever you're trying to achieve"_ can be solved by a snippet of software,
 - It's released as packages
 - It's maintained
 
-Alright, this may not sound like a big deal. But it is!. We will turn up the ambition a notch and claim that the properties mentioned above are not optional - they are required. Hereby we enter into a quite complex field of software. We're not merely _programming_ or _hacking_ anymore. Now we have to deal with the entire eco-system that surrounds code. 
+Alright, this may not sound like a big deal. But it is!. We will turn up the ambition a notch and claim that the properties mentioned above are not optional - they are required. Hereby we enter into a quite complex field of software. We're not merely _programming_ or _hacking_ anymore. Now we have to deal with the entire eco-system that surrounds code.
 
 ...as code!
 
@@ -50,7 +50,8 @@ We enter into a world that may seem hidden or secret to a majority of most softw
 If this world is of interest to you, then you would love working with us at The Tech Collective - this is what we do. And we have a programme where we offer both full-time internships and part time student job positions (≈20 hrs/week) to B.Sc and M.Sc. students prom relevant studies and who share our values.
 
 ## One-piece-flow
-When Toyota faced the problem of building quality cars with small means, with scarcity of basically all resources, including funding, and entering into a playing field where the competition at that time was 1000s times better prepared than themselves, they took an entirely new approach that has inspired the world - and especially the software industry - ever since; The _Toyota Production System (TPS)_ or _lean_ as it was named when used outside Toyota's own sphere. 
+
+When Toyota faced the problem of building quality cars with small means, with scarcity of basically all resources, including funding, and entering into a playing field where the competition at that time was 1000s times better prepared than themselves, they took an entirely new approach that has inspired the world - and especially the software industry - ever since; The _Toyota Production System (TPS)_ or _lean_ as it was named when used outside Toyota's own sphere.
 
 They were the ones who came up with the ideal to build quality in - as opposed to glue quality on. The Japanese word is _"jidoka"_.  And some of the core principles they applied to achieved this was _"kaizen"_ - Continuous Improvement and _"kanban"_ -  Signaling.
 
@@ -71,17 +72,16 @@ Toyota also adopted the concept af _katas_ - In karate a kata is an exercise, a 
 
 As an intern or a junior developer (part-time employee) you will contribute to the products in this community, by delivering code that is done right - in a one-piece-flow. The long-term perspective in an internship or a position as junior developer with The Tech Collective is of course, that you fall in love with us - and we fall in love with you. And when you are done and graduated - you are accepted as a full-time consultant in The Tech Collective tribe.
 
-The demand for the products and features we build comes from clients, colleagues, ourselves or trends in the market. 
+The demand for the products and features we build comes from clients, colleagues, ourselves or trends in the market.
 
 We will build, release and maintain products based on principles typically used for developing Open Source code - a.k.a _Benevolent Dictator Governance Model_. We maintain road maps and backlogs, we tie all commits to concrete tasks that are prioritized based on principles for kanban task management. We work work in build-measure-learn cycles around Minimum Viable Products. We steer and either pivot or persevere based on the feedback we get from our users. We work in a _Social Coding_ environment to expose a  showcase of an Internal Development Platform.
 
 ## Reach out - touch faith
 
 ![Personal Jesus](https://github.com/thetechcollective/.github/assets/155492/4386bf30-0638-4e23-9d70-3ba907e3bd7c){: .align-left width="100"}
-A common prediction these days is that more and more software in the future will be done by chats and generative AI, but the eco-system that surrounds software - generative ai included, is so carefully adapted the individual team, organizations, tool stack and domain knowledge, that this is not merely _distilled wisdom of the crowd_  which is the force og Generative AI. It calls for sophisticated thinking and rehearsed problem solving skills.  _"Reach out, touch faith"_ is the chorus line in Depeche Mode's legendary hit ["Personal Jesus"](https://www.youtube.com/watch?v=u1xrNaTO1bI) - We offer you a chance to reach out and touch faith; start building your own personal career in software and tech. 
+A common prediction these days is that more and more software in the future will be done by chats and generative AI, but the eco-system that surrounds software - generative ai included, is so carefully adapted the individual team, organizations, tool stack and domain knowledge, that this is not merely _distilled wisdom of the crowd_  which is the force og Generative AI. It calls for sophisticated thinking and rehearsed problem solving skills.  _"Reach out, touch faith"_ is the chorus line in Depeche Mode's legendary hit ["Personal Jesus"](https://www.youtube.com/watch?v=u1xrNaTO1bI) - We offer you a chance to reach out and touch faith; start building your own personal career in software and tech.
 
 **If software is truly eating the world - you job should be to tame the software.**
 
 **_Lars Kruse<br/>_**
 [lakr@thetechcollective.eu](mailto:lakr@thetechcollective.eu)
-

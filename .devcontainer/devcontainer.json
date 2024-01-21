@@ -1,5 +1,13 @@
 {
     "name": "Universal",
     "image":"mcr.microsoft.com/devcontainers/universal:2",
-    "postCreateCommand": "$(git rev-parse --show-toplevel)/.devcontainer/postcreate.sh"
+    "postCreateCommand": "$(git rev-parse --show-toplevel)/.devcontainer/postcreate.sh",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "DavidAnson.vscode-markdownlint",
+                "streetsidesoftware.code-spell-checker"
+            ]
+        }
+    }
 }
