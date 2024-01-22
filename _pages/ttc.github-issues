@@ -1,0 +1,17 @@
+[
+  {
+    "kind": 1,
+    "language": "markdown",
+    "value": "## Open Issues"
+  },
+  {
+    "kind": 2,
+    "language": "github-issues",
+    "value": "repo:thetechcollective/thetechcollective.dev is:open"
+  },
+  {
+    "kind": 2,
+    "language": "github-issues",
+    "value": ""
+  }
+]
