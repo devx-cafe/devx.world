@@ -9,15 +9,26 @@ It's live location is <https://www.thetechcollective.dev>
 To contribute:
 
 1. Get write access to this repo - contact @lakruzz
-2. Open a Code Space on this repo
+2. Open a Code Space on this repo - make sure the `postcreate.sh` script finished, before you continue.
 3. Run the following in the terminal
 
 ```ruby
-bundle update
-bundle install
 bundle exec jekyll serve
 ```
 
-All changes will become instantly live on the dev site (unless changes in `.yml` files, the require the server to be stopped an restarted.
+All changes will become instantly live on the dev site on port 4000 (except changes in `.yml` files, they require the server to be stopped an restarted.
 
 When you commit back to master and push to `origin` the GitHub Action will automatically deploy it to <https://www.thetechcollective.dev>
+
+## Quality gates
+
+The workflow will build the site with `jekyll` and then test for spelling error and correct MarkDown formatting. using `cspell` and `markdownlint-cli2`
+
+![workflow](https://github.com/thetechcollective/thetechcollective.dev/assets/155492/bf4f56f0-18d3-4270-95c0-aea0276034f3)
+
+To test in your dev setup if your workflow will pass run
+
+``` shell
+cspell "_*/**.md"
+markdownlint-cli2 "_*/**.md" 
+```
