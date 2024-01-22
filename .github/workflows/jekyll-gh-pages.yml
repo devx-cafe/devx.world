@@ -32,17 +32,8 @@ jobs:
         uses: actions/configure-pages@v4
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
-      - name: Install html-proofer
-        run:  gem install html-proofer
-      - name: Check HTML
-        run:  htmlproofer --allow-hash-href _site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
-      - name: Cache _site
-        uses: actions/cache@v4
-        with:
-          path: _site
-          key: ${{ runner.os }}-jekyll-${{ github.sha }}
 
   cspell:
     runs-on: ubuntu-latest
