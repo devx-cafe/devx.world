@@ -2,9 +2,15 @@
 title: "Archive Layout with Content"
 layout: archive
 permalink: /archive-layout-with-content/
+
+# cSpell:ignore   Blockquotes, Bloggs, dowork, Dyrdek, Boykins, Cupertino, Ballmer
+#
 ---
 
+
 A variety of common markup showing how the theme styles them.
+
+<!-- markdownlint-disable MD025 -->
 
 # Header one
 
@@ -44,10 +50,10 @@ Multi line blockquote with a cite reference:
 |:--------|:-------:|--------:|
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
-|-----------------------------|
+|---------|---------|---------|
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
-|=============================|
+|=========|=========|=========|
 | Foot1   | Foot2   | Foot3   |
 
 ## Definition Lists
@@ -58,7 +64,7 @@ Definition List Title
 Startup
 :   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
 
-#dowork
+\#dowork
 :   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
 
 Do It Live
@@ -66,23 +72,23 @@ Do It Live
 
 ## Unordered Lists (Nested)
 
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
+* List item one
+  * List item one
+    * List item one
+    * List item two
+    * List item three
+    * List item four
   * List item two
   * List item three
   * List item four
+* List item two
+* List item three
+* List item four
 
 ## Ordered List (Nested)
 
-  1. List item one 
-      1. List item one 
+  1. List item one
+      1. List item one
           1. List item one
           2. List item two
           3. List item three
@@ -102,10 +108,10 @@ Make any link standout more when applying the `.btn` class.
 <a href="#" class="btn--success">Success Button</a>
 ```
 
-[Primary Button](#){: .btn}
-[Success Button](#){: .btn .btn--success}
-[Warning Button](#){: .btn .btn--warning}
-[Danger Button](#){: .btn .btn--danger}
+[Primary Button](/#){: .btn}
+[Success Button](/#){: .btn .btn--success}
+[Warning Button](/#){: .btn .btn--warning}
+[Danger Button](/#){: .btn .btn--danger}
 [Info Button](#){: .btn .btn--info}
 [Inverse Button](#){: .btn .btn--inverse}
 [Light Outline Button](#){: .btn .btn--light-outline}

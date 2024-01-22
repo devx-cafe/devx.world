@@ -9,5 +9,8 @@
                 "streetsidesoftware.code-spell-checker"
             ]
         }
+    },
+    "features": {
+        "ghcr.io/devcontainers-contrib/features/markdownlint-cli2:1": {}
     }
 }

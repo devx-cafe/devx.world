@@ -5,7 +5,6 @@ componentized
 Depeche
 Fahrenholz
 hackaton
-HANA
 jidoka
 kaizen
 kanban

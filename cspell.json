@@ -10,6 +10,9 @@
     "languageSettings": [
         { "languageId": "markdown", "dictionaries": ["ttc"] },
         { "languageId": "plaintext", "dictionaries": ["ttc"] }
+    ],
+    "ignoreRegExpList": [
+        "{%.*%}" // ignore liquid tags
     ]
 
     

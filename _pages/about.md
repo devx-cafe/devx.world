@@ -3,6 +3,8 @@ permalink: /about/
 title: "About - The Tech Collective"
 excerpt: "The Tech Collective - Powered by Implement"
 last_modified_at: 2024-01-16
+
+# cSpell:ignore HANA
 ---
 
 **We are a tribe of agile teams with a passion for utilizing technology and digital solutions to drive meaningful outcomes. We are a collective of technologists, developers, testers, engineers, designers and enthusiasts who love to share our knowledge and experience with others.**
@@ -16,6 +18,7 @@ The Tech Collective is an umbrella brand, with five self-organized hubs undernea
 - S/4HANA
 - Salesforce
 - Cyber Security
+<!-- markdownlint-disable MD034 -->
 
 ### www.thetechcollective<span style="color: red;">.eu</span>
 
