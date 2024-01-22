@@ -37,6 +37,15 @@ jobs:
           destination: ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
+  
+  cspell:
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Install cspell
+        run: npm install -g cspell
+      - name: Check spelling
+        run: cspell "_*/**.md"
 
   # Deployment job
   deploy:
@@ -44,7 +53,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    needs: build
+    needs: cspell
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
