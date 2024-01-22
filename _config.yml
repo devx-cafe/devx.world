@@ -164,7 +164,12 @@ exclude:
   - README.md
   - CONTRIBUTING.md
   - tmp
-  - reference
+  - .vscode
+  - .github
+  - .cspell
+  - .devcontainer
+  - _giscus.settings.html
+
 keep_files:
   - .git
   - .svn
@@ -195,9 +200,6 @@ kramdown:
 # Collections
 collections:
   docs:
-    output: true
-    permalink: /:collection/:path/
-  recipes:
     output: true
     permalink: /:collection/:path/
   tutorials:
@@ -264,7 +266,7 @@ defaults:
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-  sourcemap: true
+  sourcemap: "development"
 
 
 # Outputting

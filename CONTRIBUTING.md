@@ -18,6 +18,6 @@ bundle install
 bundle exec jekyll serve
 ```
 
-All changes will become instantly live on the dev site (unless changes in `.yml` files, the requre the server to be stoppeed an restarted.
+All changes will become instantly live on the dev site (unless changes in `.yml` files, the require the server to be stopped an restarted.
 
-When you commit back to master and pust to `origin` the GitHub Action will automatically deploy it to <https://www.thetechcollective.dev>
+When you commit back to master and push to `origin` the GitHub Action will automatically deploy it to <https://www.thetechcollective.dev>

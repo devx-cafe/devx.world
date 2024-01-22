@@ -4,3 +4,6 @@ git config --local --get include.path | grep -e ../.gitconfig || git config --lo
 
 bundle update && bundle install
 
+npm install cspell --global
+
+
