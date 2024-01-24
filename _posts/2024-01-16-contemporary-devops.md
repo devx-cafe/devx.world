@@ -1,5 +1,6 @@
 ---
 title:  "Contemporary DevOps"
+excerpt: We're fascinated by building quality in - as opposed to glue it on after the release. We continuously improve the eco-system that surrounds software development.
 search: true
 author: Lars Kruse
 toc: true
@@ -32,11 +33,18 @@ gallery:
 
 ---
 
-We're fascinated by the concept of building quality in - as opposed to try to glue it on to the product after it's released. We're crazy about building and continuously improve the eco-system that surrounds software development{: .kicker }
+![image-center](/assets/images/posts/contemp-devops/software-is-eating-the-world.jpg){: .align-center width="50%"}
+
+{{ page.excerpt }}
+{: .kicker }
+
+<details><summary>👈 Click to expand slide deck</summary>
 
 {% include gallery id="gallery" caption="Slide deck" %}
 
 <break clear="left"/>
+
+</details>
 
 ## Anything as Code
 

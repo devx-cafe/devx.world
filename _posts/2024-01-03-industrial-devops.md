@@ -1,5 +1,6 @@
 ---
-title:  "Industrial DevOps by Suzette Johnson and Robin Yeman"
+title:  "Industrial DevOps by Johnson & Yeman"
+excerpt: "\"Industrial DevOps\" provides a comprehensive guide on how to apply Agile and DevOps principles in the development of cyber-physical systems."
 search: true
 author: Asser Fahrenholz
 categories: 

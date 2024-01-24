@@ -5,6 +5,7 @@ componentized
 Depeche
 Fahrenholz
 hackaton
+Hellerup
 jidoka
 kaizen
 kanban
@@ -14,8 +15,12 @@ kruse
 Lakruzz
 Larusso
 Miyagi
+Nyboder
 ohhh
+outro
 savvyness
 SDLC
 thetechcollective
+Tuborg
+Wenger
 Yeman

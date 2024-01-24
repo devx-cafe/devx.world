@@ -1,5 +1,6 @@
 ---
-title:  "Industrial DevOps: Visualizing and organizing for flow of value"
+title:  "Industrial DevOps: 1<sup>st</sup> principle"
+excerpt: "Visualizing and organizing for flow of value"
 search: true
 author: Asser Fahrenholz
 categories: 
@@ -12,10 +13,7 @@ tags:
 header:
   teaser: /assets/images/industrial-devops-flow-of-value.jpg
 ---
-
-<p align="center">
-<a href="/assets/images/industrial-devops-flow-of-value.jpg"><img src="/assets/images/industrial-devops-flow-of-value.jpg" alt="Industrial Devops" width="50%" align="center"></a>
-</p>
+![image-center](/assets/images/industrial-devops-flow-of-value.jpg){: .align-center width="50%"}
 
 The first principle of Industrial DevOps is to visualize and organize around the flow of value instead of around functions. This principle emphasizes the importance of aligning multiple product teams for regular demonstration and [delivery of value][1].
 
