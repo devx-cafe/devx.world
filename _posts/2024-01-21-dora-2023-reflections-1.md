@@ -1,5 +1,6 @@
 ---
 title:  "Google DORA 2023 reflections, Benefits of continuous delivery"
+excerpt: "I reflect on some of the findings in the Google DORA 2023 report, with a surprise hidden in chapter 7"
 search: true
 author: Asser Fahrenholz
 categories: 
