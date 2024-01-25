@@ -5,7 +5,6 @@ search: true
 author: Lars Kruse
 toc: false
 header:
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   teaser: /assets/images/posts/mission/situated-learning.png
 categories: 
   - Test & DevOps
@@ -24,6 +23,14 @@ With focus on _learning_, not _teaching_.
 
 We have taken the initiative to host a series of informal events where you - and everyone else with an interest in _FlowTech_ and _Contemporary DevOps_ are welcomed into our beautiful surroundings: The old girl school for daughters of naval officers in Nyboder in Copenhagen city and the original Tuborg brewery headquarter in Hellerup. Those two historic buildings alone are worth a visit.
 
+<details><summary>👈 Expand to see locations on the map 🌍</summary>
+
+<span style="font-size:smaller;">Borgergade 111, Copenhagen</span>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2249.0497966414555!2d12.585619812583307!3d55.68812199685858!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465253da50cc18ed%3A0x50ff8fa1e5f81541!2s.the%20tech%20collective!5e0!3m2!1sda!2sdk!4v1706170765483!5m2!1sda!2sdk" width="400" height="340" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<span style="font-size:smaller;">Strandvejen 54, Hellerup</span>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2246.8696812249027!2d12.57442521258537!3d55.72601689394144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465248f37fc863c1%3A0xc0b2aad7b1faeafe!2sImplement%20Consulting%20Group!5e0!3m2!1sda!2sdk!4v1706170333794!5m2!1sda!2sdk" width="400" height="340" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</details>
 ## Sign up
 
 Browse the [events we have lined up](/events/) and sign up for free admission. Seats are limited (25 per event). We want to keep this cozy!
