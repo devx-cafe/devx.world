@@ -6,6 +6,7 @@ componentized
 Depeche
 devcontainer
 devcontainers
+eventbrite
 Fahrenholz
 hackaton
 Hellerup
