@@ -2,18 +2,32 @@
     "version": "0.2",
     "language": "en",
     "dictionaryDefinitions": [
-        { "name": "ttc", "path": "./.cspell/ttc-dictionary.txt"}
+        {
+            "name": "ttc",
+            "path": "./.cspell/ttc-dictionary.txt"
+        }
     ],
     "dictionaries": [
         "ttc"
     ],
     "languageSettings": [
-        { "languageId": "markdown", "dictionaries": ["ttc"] },
-        { "languageId": "plaintext", "dictionaries": ["ttc"] }
+        {
+            "languageId": "markdown",
+            "dictionaries": [
+                "ttc"
+            ]
+        },
+        {
+            "languageId": "plaintext",
+            "dictionaries": [
+                "ttc"
+            ]
+        }
     ],
     "ignoreRegExpList": [
         "{%.*%}" // ignore liquid tags
+    ],
+    "ignoreWords": [
+        "Anson"
     ]
-
-    
 }
