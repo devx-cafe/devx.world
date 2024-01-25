@@ -1,6 +1,7 @@
 # Custom Dictionary Words
 Andreessen
 Asser
+Borgergade
 componentized
 Depeche
 devcontainer
@@ -23,6 +24,7 @@ outro
 postcreate
 savvyness
 SDLC
+Strandvejen
 thetechcollective
 toplevel
 Tuborg
