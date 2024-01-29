@@ -9,6 +9,7 @@ devcontainers
 eventbrite
 Fahrenholz
 hackaton
+Hamel
 Hellerup
 jidoka
 kaizen

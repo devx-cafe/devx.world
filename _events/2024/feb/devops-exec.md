@@ -20,7 +20,8 @@ show-on-list: true
 
 DevOps is the most hyped buzzword in the software development industry
 today At this master class we will touch on what is it really. Where it came from.  What's the business
-case? ...everything executives need to know about DevOps.{: .kicker}
+case? ...everything executives need to know about DevOps.
+{: .kicker}
 
 The workshop will touch on the following topics:
 
