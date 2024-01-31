@@ -7,8 +7,6 @@ case? ...everything executives need to know about DevOps."
 share: false
 header:
   teaser: /assets/images/events/devops-exec.png
-sidebar:
-  - text: "[Sign up](https://www.eventbrite.dk/e/795889174947){: .btn .btn--success target='_blank'}"
 event:
   date: 2024-02-28
   image: /assets/images/events/devops-exec.png
@@ -27,7 +25,7 @@ The workshop will touch on the following topics:
 
 - DevOps in context
 - DevOps explained
-- One Valuestream means one Backlog
+- One Value stream means one Backlog
 - Production-like environment
 - Anything as code
 - T-shaped people - “DevOps” is not a team

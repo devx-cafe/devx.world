@@ -5,8 +5,6 @@ excerpt: Hands on workshop with advanced GitHub features such as DevContainers, 
 share: false
 header:
   teaser: /assets/images/events/github_teaser.png
-sidebar:
-  - text: "[Sign up](https://www.eventbrite.dk/e/792964276497){: .btn .btn--success target='_blank'}"
 event:
   date: 2024-01-23
   image: /assets/images/events/dx-wide.png

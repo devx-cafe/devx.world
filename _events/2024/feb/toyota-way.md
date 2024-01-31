@@ -27,7 +27,7 @@ _"How is this relevant"_ - you may think?, Here's an input for after-thought: Co
 - _[Half Double](https://halfdoubleinstitute.org/the-methodology){: target="_blank"}_
 - _[Scrum](https://scrumguides.org/scrum-guide.html){: target="_blank"}_
 
-Our clam is that all of these stand on the shoulders of the classical lean approach, originally coined by Toyota.
+All of these methodologies and many more stand on the shoulders of the classical lean approach, originally coined by Toyota.
 
 > _"The World would not have turned out as we know it today, if it hadn't been for The Toyota Way."_
 

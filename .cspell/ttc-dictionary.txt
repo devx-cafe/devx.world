@@ -1,6 +1,7 @@
 # Custom Dictionary Words
 Andreessen
 Asser
+aways
 Borgergade
 componentized
 Depeche
@@ -8,6 +9,7 @@ devcontainer
 devcontainers
 eventbrite
 Fahrenholz
+Flowtech
 hackaton
 Hamel
 Hellerup
@@ -26,6 +28,7 @@ outro
 postcreate
 savvyness
 SDLC
+slowification
 Strandvejen
 thetechcollective
 toplevel
