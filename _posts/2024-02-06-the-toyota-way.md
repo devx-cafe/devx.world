@@ -114,7 +114,7 @@ At the center of surfacing and solving problems are developed people. They are t
 
 NOTE
 
-: _Done with quoting Jeffery Liker - if you Like you can even skip the rest of this article too and  - head straight over to read the appendix "Executive summary ..." (pages 377-382 ) in Jeffery Liker's book ["The Toyota Way" 2<sup>nd</sup> edition](/assets/pdf/the-toyota-way-2nd-ed-jeffrey-liker.pdf "Download the entire book as  .PDF"){: target="_blank"}_
+: _Done with quoting Jeffery Liker - if you Like (pun intended 🤷‍♂️) you can even skip the rest of this article too and  - head straight over to read the appendix "Executive summary ..." (pages 377-382 ) in Jeffery Liker's book ["The Toyota Way" 2<sup>nd</sup> edition](/assets/pdf/the-toyota-way-2nd-ed-jeffrey-liker.pdf "Download the entire book as  .PDF"){: target="_blank"}_
 
 ## 4P model
 
