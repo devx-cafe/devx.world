@@ -1,4 +1,5 @@
 # Custom Dictionary Words
+Andon
 Andreessen
 Asser
 aways
@@ -10,8 +11,13 @@ devcontainers
 eventbrite
 Fahrenholz
 Flowtech
+gemba
+Genbutsu
+Genchi
 hackaton
 Hamel
+Hansei
+Heijunka
 Hellerup
 jidoka
 kaizen
@@ -22,14 +28,21 @@ kruse
 Lakruzz
 Larusso
 Miyagi
+Muda
+mura
+muri
 Nyboder
 ohhh
 outro
+PDCA
+Poka
 postcreate
 savvyness
+SDCA
 SDLC
 slowification
 Strandvejen
+Takt
 thetechcollective
 toplevel
 Tuborg
