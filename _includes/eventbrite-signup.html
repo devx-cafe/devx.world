@@ -1,5 +1,5 @@
-{% assign curDate = site.time | date: '%s' %}
-{% assign postEventDate = page.event.date | date: '%s' %}
+{% assign curDate = site.time | date: '%s' | plus:0 %}
+{% assign postEventDate = page.event.date | date: '%s' | plus: 86400 %}
 {% assign unique =  "now" | date: "%N" | modulo: 10000 %}
 
 {% if postEventDate >= curDate %}

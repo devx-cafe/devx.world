@@ -7,7 +7,7 @@ author: Lars Kruse
 header:
   teaser: /assets/images/the-toyota-way_2x3.png
 event:
-  date: 2024-02-08
+  date: 2024-02-08 
   image: /assets/images/the-toyota-way_2x3.png
   place: Hellerup, Strandvejen 54
   eventbrite-id: 795883618327

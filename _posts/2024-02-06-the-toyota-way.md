@@ -7,6 +7,7 @@ excerpt: "A summary Jeffery Liker's book \"The Toyota Way\" 2<sup>nd</sup> editi
 search: true
 toc: true
 author: Lars Kruse
+comments: true
 tags:
   - DevOps
   - The Toyota Way

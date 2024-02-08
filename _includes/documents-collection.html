@@ -9,11 +9,11 @@
     {% assign entries = entries | reverse %}
 {% endif %}
 
-{% assign curDate = site.time | date: '%s' %}
+{% assign curDate = site.time | date: '%s' | plus: 0 %}
 
 {%- for post in entries -%}
     {%- unless post.hidden -%}
-      {% assign postEventDate = post.event.date | date: '%s' %}
+      {% assign postEventDate = post.event.date | date: '%s' | plus: 86400 %}
 
         {% if include.only == 'future' %}
           {% if postEventDate >= curDate %}
