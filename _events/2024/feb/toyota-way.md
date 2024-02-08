@@ -4,6 +4,7 @@ layout: event2
 excerpt: At this workshop, we will go through each of the 14 management principles  in 'The Toyota Way' and through discussions, examples, team work we will try to put them in context."
 author_profile: true
 author: Lars Kruse
+comments: true
 header:
   teaser: /assets/images/the-toyota-way_2x3.png
 event:
