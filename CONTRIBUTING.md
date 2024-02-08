@@ -1,6 +1,6 @@
 # This is not the official website
 
-**The Tech Collective's offical website [www.thetechcollective`.eu`](https://thetechcollective.eu) is managed by Implement Brand and the brand ambassadors from The Tech Collective. This is something entirely different. The repository you are looking at now is the source for the static web hosted at [thetechcollective`.dev`](www.thetechcollective.dev).**
+**The Tech Collective's official website [www.thetechcollective`.eu`](https://thetechcollective.eu) is managed by Implement Brand and the brand ambassadors from The Tech Collective. This is something entirely different. The repository you are looking at now is the source for the static web hosted at [thetechcollective`.dev`](www.thetechcollective.dev).**
 
 ## Why do we need another web?
 

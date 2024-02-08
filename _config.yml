@@ -107,7 +107,7 @@ author:
   bio              : "We are nurturing an ecosystem of agile teams. We're a collective - with a passion for utilizing technology and digital solutions to drive meaningful outcomes."
   location         : "Copenhagen, Denmark"
   links:
-    - label: "The Tech Collective - offical web"
+    - label: "The Tech Collective - official web"
       icon: "fas fa-fw fa-link"
       url: "https://www.thetechcollective.eu"
 #   - label: "Twitter"
@@ -124,7 +124,7 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "The Tech Collective - offical web"
+    - label: "The Tech Collective - official web"
       icon: "fas fa-fw fa-link"
       url: "https://www.thetechcollective.eu"
     - label: "GitHub"
