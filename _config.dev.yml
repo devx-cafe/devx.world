@@ -5,9 +5,5 @@
 analytics:
   provider: false
 
-comments:
-  disqus:
-    shortname            : "mmistakes-dev"
-
 sass:
   style: expanded

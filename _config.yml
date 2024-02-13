@@ -285,6 +285,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-redirefct-from
   - webrick
 
 # mimic GitHub Pages with --safe
@@ -295,6 +296,7 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-redirefct-from
   - webrick
 
 

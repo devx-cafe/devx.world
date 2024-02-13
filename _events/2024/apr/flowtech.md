@@ -3,10 +3,11 @@ title: 'Hackaton: FlowTech, hacking snippets that will automate your daily workf
 layout: event2
 excerpt: 'At this hackaton, we will introduce the concept "Flowtech" and discuss and demonstrate short code snippets with a huge effect. Bring your laptop and hack along.'
 share: false
+redirect_from: /events/2024/mar/flowtech/
 header:
   teaser: /assets/images/events/flowtech-hack.png
 event:
-  date: 2024-03-28
+  date: 2024-04-03
   image: /assets/images/events/flowtech-hack.png
   place: Copenhagen, Borgergade 111
   eventbrite-id: 795911511757
