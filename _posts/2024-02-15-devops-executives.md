@@ -74,7 +74,7 @@ This thought was the _raison d'etre_ for new concepts in Software such as _lean 
 
 ## Business case for DevOps
 
- This deck of six slides explains the business case for the one-piece flow augmented originally by Toyota and ties the same argument into software development - where we call it a _pipeline_...
+ This deck of six slides explains the business case for the one-piece flow originally intgroduced by Toyota and ties the same argument into software development - where we call it a _pipeline_...
 
 {% include gallery id="gallery" caption="Click on the first slide and browse through all six, while you read the caption on each slide." %}
 <break clear="left"/>
