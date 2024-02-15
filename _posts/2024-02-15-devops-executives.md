@@ -139,4 +139,4 @@ This is a link to a ≈20 min read - A blog post I published on LinkedIn, puttin
 
 > “Yaaah - it works on my machine!”
 
-[Head over to LinkedIn and read it]([https://outlook.office365.com/owa/calendar/Lakruzz@Implementcg.onmicrosoft.com/bookings/s/wKPLdgQ9pE6V3-b40-G-Cg2](https://www.linkedin.com/pulse/devops-you-say-problemo-were-safe-lars-kruse/)){: .btn .btn--info target="_blank" title="Opens in a new tab"}
+[Head over to LinkedIn and read it](https://www.linkedin.com/pulse/devops-you-say-problemo-were-safe-lars-kruse/){: .btn .btn--info target="_blank" title="Opens in a new tab"}
