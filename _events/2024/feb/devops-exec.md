@@ -32,3 +32,5 @@ The workshop will touch on the following topics:
 - Compliance done right - Quality Built-in
 - The alignment trap in IT
 - The Business Case for DevOps
+
+Need more details - read this sibling post "[DevOps for Executives](/devops-executives/)"

@@ -5,6 +5,7 @@ Asser
 aways
 Borgergade
 componentized
+d'etre
 Depeche
 devcontainer
 devcontainers
@@ -43,6 +44,7 @@ SDLC
 slowification
 Strandvejen
 Takt
+takts
 thetechcollective
 toplevel
 Tuborg
