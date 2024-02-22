@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 
-bundle update && bundle install
-bash --login -c "rvm use `cat .ruby-version`"
+bundle update
+bash -l -c "rvm use `cat .ruby-version`"
+bundle install
 
 npm install cspell --global
 
