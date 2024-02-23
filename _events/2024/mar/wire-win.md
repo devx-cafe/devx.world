@@ -3,6 +3,7 @@ title: 'Book club: "Wiring the Winning Organization"'
 layout: event2
 excerpt: "Join us for an exciting book club session where we delve into the thought-provoking book 'Wiring the Winning Organization' by Gene Kim and Steven Spear. Get ready to explore the secrets of successful organizations and learn how to apply their strategies in your own workplace."
 share: false
+published: false
 header:
   teaser: /assets/images/events/wire-win.png
 event:
