@@ -1,6 +1,5 @@
 {
-    "name": "Universal",
-//    "image":"mcr.microsoft.com/devcontainers/universal:2",
+    "name": "Jekyll",
 	"image": "mcr.microsoft.com/devcontainers/jekyll:2-bullseye",
     "postCreateCommand": "$(git rev-parse --show-toplevel)/.devcontainer/postcreate.sh",
     "customizations": {
@@ -15,7 +14,9 @@
 		"ghcr.io/devcontainers/features/common-utils:2": {},
 		"ghcr.io/devcontainers/features/docker-in-docker:2": {},
 		"ghcr.io/devcontainers/features/github-cli:1": {},
-        "ghcr.io/devcontainers-contrib/features/markdownlint-cli2:1": {}
+        "ghcr.io/devcontainers-contrib/features/markdownlint-cli2:1": {},
+        "ghcr.io/devcontainers/features/ruby:1": {
+            "version": "3.2.3"
+        }
     }
 }
-git 
