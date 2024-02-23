@@ -4,7 +4,7 @@ layout: event-signup
 excerpt: "Devcontainers and Kubernetes"
 share: false
 header:
-  teaser: /assets/images/events/github_teaser.png
+  teaser: /assets/images/events/container_teaser.png
 event:
   date: 2024-03-19
   image: /assets/images/events/cph-code-club.png
