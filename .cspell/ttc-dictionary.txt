@@ -33,6 +33,7 @@ Muda
 mura
 muri
 Nyboder
+octocat
 ohhh
 outro
 PDCA
@@ -41,6 +42,7 @@ postcreate
 savvyness
 SDCA
 SDLC
+signup
 slowification
 Strandvejen
 Takt

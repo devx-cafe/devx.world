@@ -17,7 +17,7 @@ show-on-list: true
 A show case on how to use Devcontainers in GitHub CodeSpaces to create an Internal Development Platform and how ro move Virtual Machines to K8S orchestrated containers.
 {: .kicker}
 
-This event is co-organized between **.the tech collective** and **Copenhagen Code Club**. It's hosted at Implement's head quater in Hellerup. 
+This event is co-organized between **.the tech collective** and **Copenhagen Code Club**. It's hosted at Implement's headquarters in Hellerup.
 
 DX - “Developer Experience” and IDP - “Internal Development Platform” are some of the most consistent and contemporary buzzes on the back of DevOps Classic.
 
@@ -31,8 +31,7 @@ Put the pedal to the metal, and improve your everyday work life as a software de
 
 ⚠️ There will be running code from stage! ⚠️
 
-
-### 🌐 Agenda 
+### 🌐 Agenda
 
 - 👋 **5:30 - 5:45** Welcoming and Socializing
 - 🚀 **5:45 - 6:00** Opening Remarks
