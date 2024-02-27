@@ -1,20 +1,20 @@
 ---
 title: 'Containerizing the Developer Experience'
 layout: event-signup
-excerpt: "Devcontainers and Kubernetes"
+excerpt: "Two show cases; one on how to use Devcontainers in GitHub CodeSpaces to create an Internal Development Platform and one on how to move Virtual Machines to K8S orchestrated containers."
 share: false
 header:
   teaser: /assets/images/events/container_teaser.png
 event:
   date: 2024-03-19
-  image: /assets/images/events/cph-code-club.png
+  image: /assets/images/events/container_teaser.png
   eventbrite-id: 849339737017
   place: .the tech collective, Strandvejen 56, 2900 Hellerup
   time: "17:30 - 20:00"
 show-on-list: true
 ---
 
-A show case on how to use Devcontainers in GitHub CodeSpaces to create an Internal Development Platform and how ro move Virtual Machines to K8S orchestrated containers.
+{{ page.excerpt }}
 {: .kicker}
 
 This event is co-organized between **.the tech collective** and **Copenhagen Code Club**. It's hosted at Implement's headquarters in Hellerup.
