@@ -3,13 +3,13 @@ title: 'Book club: "Wiring the Winning Organization"'
 layout: event2
 excerpt: "Join us for an exciting book club session where we delve into the thought-provoking book 'Wiring the Winning Organization' by Gene Kim and Steven Spear. Get ready to explore the secrets of successful organizations and learn how to apply their strategies in your own workplace."
 share: false
-published: false
+redirect_from: /events/2024/mar/wire-win/
 header:
   teaser: /assets/images/events/wire-win.png
 event:
-  date: 2024-03-14
+  date: 2024-04-16
   image: /assets/images/events/wire-win.png
-  place: Hellerup, Strandvejen 54
+  place: København, Borgergade 111
   eventbrite-id: 795901180857
   time: "16:30 - 19:30"
 show-on-list: true
@@ -30,4 +30,4 @@ standardizing work processes and outcomes.
 - *Amplification* — means ensuring that problems are seen and solved by creating a culture of transparency,
 accountability, and collaboration, and by leveraging technology and data to support problem-solving.
 
-You are welcome even if you haven't read the book (got to a prompt prompt and ask for an except - or [read the on from my prompt](assets/pdf/Kim-and-Spears-Wiring_the_winning_organization.pdf){: title="Prompt: Give a summary of Gene Kim and Steven Spear's book "wiring the winning organization" And generate a list of the five most important or novel take-aways from the book" target="_blank"})
+You are welcome even if you haven't read the book (got to a prompt prompt and ask for an except - or [read the one from my prompt](assets/pdf/Kim-and-Spears-Wiring_the_winning_organization.pdf){: title="Prompt: Give a summary of Gene Kim and Steven Spear's book "wiring the winning organization" And generate a list of the five most important or novel take-aways from the book" target="_blank"})

@@ -25,6 +25,7 @@ kaizen
 kanban
 kata
 katas
+København
 kruse
 Lakruzz
 Larusso
