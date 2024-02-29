@@ -20,7 +20,7 @@ If you need help with _anything_ that is not documente here, feel free to ask in
 - You need to become a member of the [webdev team](https://github.com/orgs/thetechcollective/teams/webdev)
 
 
-Contact @lakruzz - either by a mentinon on a discussion or issue her in GitHub or on mail [lakr@thetechcollective.ex](mailto:lakr@thetechcollective.ex)
+Contact @lakruzz - either by a mentinon on a discussion or issue her in GitHub or on mail [lakr@thetechcollective.ex](mailto:lakr@thetechcollective.eu)
 
 ## Start with creating a CodeSpace
 
