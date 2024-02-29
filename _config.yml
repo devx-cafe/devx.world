@@ -7,9 +7,10 @@
 
 remote_theme             : "thetechcollective/minimal-mistakes"
 
-minimal_mistakes_skin    : "ttc" # "ttc", "deafult," "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "ttc" # "ttc", "default," "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
+future                   : true 
 locale                   : "en-US"
 title                    : "The Tech Collective"
 title_separator          : "-"

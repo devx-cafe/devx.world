@@ -5,6 +5,7 @@ excerpt: At this workshop, we will go through each of the 14 management principl
 author_profile: true
 author: Lars Kruse
 comments: true
+redirect_from: /events/2024/feb/toyota-way/
 header:
   teaser: /assets/images/the-toyota-way_2x3.png
 event:

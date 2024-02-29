@@ -6,6 +6,7 @@ today, at this master class we will touch on what is it really. Where it came fr
 case? ...everything executives need to know about DevOps."
 share: false
 comments: true
+redirect_from: /events/2024/feb/devops-exec/
 header:
   teaser: /assets/images/events/devops-exec.png
 event:

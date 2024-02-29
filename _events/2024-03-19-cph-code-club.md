@@ -3,6 +3,7 @@ title: 'Containerizing the Developer Experience'
 layout: event-signup
 excerpt: "Two show cases; one on how to use Devcontainers in GitHub CodeSpaces to create an Internal Development Platform and one on how to move Virtual Machines to K8S orchestrated containers."
 share: false
+redirect_from: /events/2024/mar/cph-code-club/
 header:
   teaser: /assets/images/events/container_teaser.png
 event:
