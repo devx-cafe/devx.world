@@ -2,7 +2,7 @@
 title: "Masterclass: DevOps for Executives"
 layout: event2
 excerpt: "DevOps is the most hyped buzzword in the software development industry
-today At this master class we will touch on what is it really. Where it came from.  What's the business
+today, at this master class we will touch on what is it really. Where it came from.  What's the business
 case? ...everything executives need to know about DevOps."
 share: false
 comments: true
