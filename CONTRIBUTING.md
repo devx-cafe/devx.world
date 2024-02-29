@@ -1,23 +1,4 @@
-# This is not the official website
-
-**The Tech Collective's official website [www.thetechcollective`.eu`](https://thetechcollective.eu) is managed by Implement Brand and the brand ambassadors from The Tech Collective. This is something entirely different. The repository you are looking at now is the source for the static web hosted at [thetechcollective`.dev`](www.thetechcollective.dev).**
-
-## Why do we need another web?
-
-On these pages each author speaks with her or his own tone-of-voice. Our stories have discussions enabled, so everyone is encouraged to join and set their mark.
-
-👉 We host tech stories (blog posts)<br/>
-👉 We host public free events<br/>
-👉 We offer free self-paced turotials<br/>
-👉 We promote Open Source products from our GitHub organization<br/>
-👉 The web is programmed (MarkDown, Liquid, JavaScript and SASS)
-
-...and since it's programmed it double both as an internal playground and an external _anything_as-code_ showvcase for: _GitOps_, _Continuous Delivery_, _Declarative Pipelines_,  _Branching Strategies_, _DX - Developer Experience_, _IDP - Internal Development Platform_, _Kanban task management_, _Devcontainers_, _Continuous Integration_, _Build optimization_, _Static Code Analysis_, _Automated testing_ ...
-
-## Who can join?
-Any employee in any of the hubs of The Tech Collective is invited and encouraged to contribute. We run this codebase as an Open Source community. So the contributions should be self-explanatory and asyncronous. And subject to automated verification.
-
-All you have to do is read this `CONTRIBUTING.md` instruction and you should be good to go.
+# Do you want to contribute?
 
 ## The basics
 
@@ -29,13 +10,32 @@ The codebase is automatically build every time a commit hist the `main` branch -
 
 The build is verified, in the same pipeline and if all checks out it's automatically deployed to [www.thetechcollective.dev](https://www.thetechcollective.dev).
 
-If you need help with _anything_ that is not documente here, feel free to ask at the [discussions](https://github.com/thetechcollective/thetechcollective.dev/discussions), that we have opend on this repository. Or to open an [issue](https://github.com/thetechcollective/thetechcollective.dev/issues) on the same repository.
+If you need help with _anything_ that is not documente here, feel free to ask in the [discussions](https://github.com/thetechcollective/thetechcollective.dev/discussions), that we have opend on this repository. Or to open an [issue](https://github.com/thetechcollective/thetechcollective.dev/issues) on the same repository.
 
-## To get access and become a contributor
 
-1. Get write access to this repo - contact @lakruzz to become a member of the @thetechcollective organization on GitHub. You will get an invite, and as soon as you've accepted it you have access to it all. 
-2. Open a Code Space on this repo - make sure the `postcreate.sh` script finished, before you continue.
-3. Run the following in the terminal
+
+## Getting Acccess
+
+- You need to be a member of the organisation [@thetechcollective](https://github.com/thetechcollective/)
+- You need to become a member of the [webdev team](https://github.com/orgs/thetechcollective/teams/webdev)
+
+
+Contact @lakruzz - either by a mentinon on a discussion or issue her in GitHub or on mail [lakr@thetechcollective.ex](mailto:lakr@thetechcollective.ex)
+
+## Start with creating a CodeSpace
+
+Create a CodeSpace on [this repostitory](https://github.com/thetechcollective/thetechcollective.dev) The build takes a while first time you do it.
+
+<details><summary>Expand to see video tutorial</summary>
+  
+![setupcodespace](https://github.com/thetechcollective/thetechcollective.dev/assets/155492/0ebf89e1-e4d3-4469-af8c-75344e0ce0b6)
+</details>
+
+
+
+## Build the website
+
+Run the following in the terminal
 
 ```ruby
 bundle exec jekyll serve
@@ -43,7 +43,7 @@ bundle exec jekyll serve
 
 All changes will become instantly live on the dev site on port 4000 (except changes in `.yml` files, they require the server to be stopped an restarted.
 
-When you commit changes back to master and push to `origin` the GitHub Action will automatically start.
+When you commit changes back to master and push to `origin` the [GitHub Action](https://github.com/thetechcollective/thetechcollective.dev/actions) will automatically start. If your code pass the quality gates, it will end up on the live website at [www.thetechcollective.dev](https://www.thetechcollective.dev)
 
 ## Quality gates
 
@@ -51,7 +51,7 @@ The workflow will build the site with `jekyll` and then test for spelling error 
 
 ![workflow](https://github.com/thetechcollective/thetechcollective.dev/assets/155492/bf4f56f0-18d3-4270-95c0-aea0276034f3)
 
-To test in your dev setup if your workflow will pass run
+If you want to test in your dev setup wether or not the workflow will pass the quality gates keep an eye on the _Problems_ tab in the terminal window or you can run the same commands as the worflow executes [`cspell "_*/**.md"`](https://github.com/thetechcollective/thetechcollective.dev/blob/6b42bbcbec89d873ab04839fb7144807560761c8/.github/workflows/jekyll-gh-pages.yml#L58-L59) and [`run: markdownlint-cli2 "_*/**.md"`](https://github.com/thetechcollective/thetechcollective.dev/blob/6b42bbcbec89d873ab04839fb7144807560761c8/.github/workflows/jekyll-gh-pages.yml#L69-L70) respectively. In the terminal in your CodeSpace it translates to:
 
 ``` shell
 cspell "_*/**.md"
