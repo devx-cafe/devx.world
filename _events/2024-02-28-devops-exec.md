@@ -38,3 +38,5 @@ The workshop will touch on the following topics:
 Need more details - read this sibling post "[DevOps for Executives](/devops-executives/)"
 
 Parking information for the events in borgergade: "[Parking info](/https://ebp.dk/)"
+
+see you soon.
