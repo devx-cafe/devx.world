@@ -13,9 +13,9 @@ On these pages each author speaks with her or his own tone-of-voice. Our stories
 👉 We promote Open Source products from our GitHub organization
 👉 The web is programmed (MarkDown, Liquid, JavaScript and SASS)
 
-...and since it's programmed it double both as an internal playground and an external anything_as-code showvcase for: GitOps, Continuous Delivery, Declarative Pipelines, Branching Strategies, DX - Developer Experience, IDP - Internal Development Platform, Kanban task management, Devcontainers, Continuous Integration, Build optimization, Static Code Analysis, Automated testing ...
+...and since it's programmed it double both as an internal playground and an external anything_as-code showcase for: GitOps, Continuous Delivery, Declarative Pipelines, Branching Strategies, DX - Developer Experience, IDP - Internal Development Platform, Kanban task management, Devcontainers, Continuous Integration, Build optimization, Static Code Analysis, Automated testing ...
 
 ### Who can join?
-Any employee in any of the hubs of The Tech Collective is invited and encouraged to contribute. We run this codebase as an Open Source community. So the contributions should be self-explanatory and asyncronous. And subject to automated verification.
+Any employee in any of the hubs of The Tech Collective is invited and encouraged to contribute. We run this codebase as an Open Source community. So the contributions should be self-explanatory and asynchronous. And subject to automated verification.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) on how to contribute to our repo.
