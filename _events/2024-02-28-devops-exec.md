@@ -36,3 +36,5 @@ The workshop will touch on the following topics:
 - The Business Case for DevOps
 
 Need more details - read this sibling post "[DevOps for Executives](/devops-executives/)"
+
+Parking information for the events in borgergade......(https://ebp.dk/?gad_source=1&gclid=CjwKCAiAloavBhBOEiwAbtAJO-ZfjsX8oSs2H3FzMe5NQEXMAZpIOw4NKWgdK0I_B7P7_JfOHSl2URoCMFcQAvD_BwE)
