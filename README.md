@@ -9,7 +9,7 @@ On these pages each author speaks with her or his own tone-of-voice. Our stories
 
 👉 We host tech stories (blog posts)
 👉 We host public free events
-👉 We offer free self-paced turotials
+👉 We offer free self-paced tutorials
 👉 We promote Open Source products from our GitHub organization
 👉 The web is programmed (MarkDown, Liquid, JavaScript and SASS)
 
