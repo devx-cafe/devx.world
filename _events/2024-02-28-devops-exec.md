@@ -35,6 +35,6 @@ The workshop will touch on the following topics:
 - The alignment trap in IT
 - The Business Case for DevOps
 
-Need more details - read this sibling post "[DevOps for Executives](/devops-executives/)"
-
 Parking information for the events in borgergade: "[Parking info](/https://ebp.dk/)"
+
+Need more details - read this sibling post "[DevOps for Executives](/devops-executives/)"
