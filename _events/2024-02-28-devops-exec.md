@@ -39,4 +39,4 @@ Need more details - read this sibling post "[DevOps for Executives](/devops-exec
 
 Parking information for the events in borgergade: "[Parking info](/https://ebp.dk/)"
 
-see you soon ->->->->
+see you soon or later ->->->->->->->->->
