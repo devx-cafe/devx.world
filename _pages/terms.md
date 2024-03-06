@@ -1,20 +1,19 @@
 ---
 permalink: /terms/
 title: "Terms and Privacy Policy"
-#last_modified_at: 2017-10-20T12:42:38-04:00
-toc: true
+last_modified_at: 2024-03-06T12:48:38-01:00
 ---
+
+> \- "Hey! Why didn't you ask me for a cookie concent?"
 
 ## Privacy Policy
 
-The privacy of visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+We follow the same [privacy policies](https://thetechcollective.eu/data-protection-policy){: target="_blank"} as our official brand web site on [thetechcollective.eu](https://thetechcollective.eu){: target="_blank"}.
 
-First and foremost, we will - of course - never share your email address or any other personal information to anyone without your direct consent. Actually we don't even collect this kind of data.
+## A cookie free experience 🍪
 
-## Google Analytics
+However, on this specific low-fidelity site [www.thetechcollective.dev](https://www.thetechcollective.dev), we offer a guaranteed cookie free experience; We're here to share knowledge and insights - not to collect data!
 
-Google Analytics is a web analytics tool we use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
+We do not collect any data on the website. Not even analytics data. We honestly find cookie content popups annoying, and we sacrificed our analytic data on the usability alter.
 
-## Disable 🍪 cookies
-
-If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
+[Engage with us](/contact/) if you like; Give feedback our [stories](/stories/) and [tutorials](/tutorials/). Come joint our [events](/events/). We would love ❤️ that! but rest assured that we do not collect _any_ data about you on this site..

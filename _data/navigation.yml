@@ -23,7 +23,7 @@ main:
 #  - title: "Quick-Start Guide"
 #    url: /docs/quick-start-guide/
   - title: "Stories"
-    url: /year-archive/
+    url: /stories/
   - title: "Events"
     url: /events/
   - title: "Tutorials"
