@@ -95,9 +95,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : #"google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : G-FF0E7JRTKB # IDP - The Tech Collective - www.thetechcollective.dev
+    tracking_id          : # G-FF0E7JRTKB # IDP - The Tech Collective - www.thetechcollective.dev
     anonymize_ip         : true
 
 
