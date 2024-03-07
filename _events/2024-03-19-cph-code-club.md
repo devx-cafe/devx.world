@@ -1,6 +1,6 @@
 ---
 title: 'Containerizing the Developer Experience'
-layout: event-signup
+layout: meetup-signup
 excerpt: "Two show cases; one on how to use Devcontainers in GitHub CodeSpaces to create an Internal Development Platform and one on how to move Virtual Machines to K8S orchestrated containers."
 share: false
 redirect_from: /events/2024/mar/cph-code-club/
@@ -9,7 +9,8 @@ header:
 event:
   date: 2024-03-19
   image: /assets/images/events/container_teaser.png
-  eventbrite-id: 849339737017
+  meetup-group: cph-devx-cafe
+  meetup-event-id: 299401262
   place: .the tech collective, Strandvejen 56, 2900 Hellerup
   time: "17:30 - 20:00"
 show-on-list: true
