@@ -16,4 +16,4 @@ However, on this specific low-fidelity site [www.thetechcollective.dev](https://
 
 We do not collect any data on the website. Not even analytics data. We honestly find cookie consent popups annoying, and we sacrificed our analytic data on the usability alter.
 
-[Engage with us](/contact/) if you like; Give feedback our [stories](/stories/) and [tutorials](/tutorials/). Come joint our [events](/events/). We would love ❤️ that! but rest assured that we do not collect _any_ data about you on this site..
+[Engage with us](/contact/) if you like; Give feedback on our [stories](/stories/) and [tutorials](/tutorials/). Come join our [events](/events/). We would love ❤️ that! but rest assured that we do not collect _any_ data about you on this site.
