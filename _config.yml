@@ -127,7 +127,7 @@ footer:
   links:
     - label: "The Tech Collective - official web"
       icon: "fas fa-fw fa-link"
-      url: "https://www.thetechcollective.eu"
+      url: "https://thetechcollective.eu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/thetechcollective"
