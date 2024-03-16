@@ -41,13 +41,6 @@ Jeffery's book is quite dense. It's a good read and I highly recommend it, but i
 
 **We will serve sandwiches, coffee, soda during the event.**
 
-<details><summary>👈 Expand to see details about location</summary>
-
-<span style="font-size:smaller;font-weight:bold;">Implement, Strandvejen 54, Hellerup<</span>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2246.8696812249027!2d12.57442521258537!3d55.72601689394144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465248f37fc863c1%3A0xc0b2aad7b1faeafe!2sImplement%20Consulting%20Group!5e0!3m2!1sda!2sdk!4v1706170333794!5m2!1sda!2sdk" width="400" height="340" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<span style="font-size:smaller;">There are plenty of parking options in the area. Enter the reception of Implement and we will greet you. We will be in the conference room called <em>Hamel</em>.</span>
-</details>
-
 ## It's free to attend but registration is required
 
 Feel free to bring friends and colleagues, but please sign up each attendee with personal name and email info so we have a chance to reach all registered attendees if we need to make updates.

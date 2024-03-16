@@ -117,17 +117,15 @@ If you don't do it, you are starring into a _Kodak Moment_ - not in the original
 
 Let's grab a coffee. or a lunch - In real life - Away From Keyboard.
 
-This is like a free coaching session - we will talk about you and your challenges - not us. We offer to be that (professional) shoulder you can cry on. Let go! We'll listen and support you, and offer perspective.
+This is like a free coaching session - we will talk about you and your challenges - not me. I'll offer to be that (professional) shoulder you can cry on. Let go! I'll listen and support you, and offer perspective.
 
-Hit the button and get access to our agenda, pick a time slot that suits you, and well get back to you.
+Hit the button and get access to my agenda, pick a time slot that suits you, and I'll get back to you.
 
-[Book a coffee meeting](https://outlook.office365.com/owa/calendar/Lakruzz@Implementcg.onmicrosoft.com/bookings/s/OaPNUCshoUOBB9FTOQSSxQ2){: .btn .btn--warning target="_blank" title="Opens in a new tab"}
+[Book a coffee meeting](https://calendly.com/lakruzz/60min){: .btn .btn--warning target="_blank" title="Opens in a new tab"}
 
-### Join our free masterclass "DevOps for Executives"
+### Join the free masterclass "DevOps for Executives"
 
-We have a [public free workshop](/events/2024/feb/devops-exec/) which is a shorter version - a dip of the finger - into a full day workshop especially designed for Executives who need to understand the nature and importance of Continuous Delivery and DevOps. We can also offer to come to you place and host this workshop for your managers and executives - for free - ably requirement is that gather at least 6 participants:
-
-[Book a free 2 hrs Workshop](https://outlook.office365.com/owa/calendar/Lakruzz@Implementcg.onmicrosoft.com/bookings/s/wKPLdgQ9pE6V3-b40-G-Cg2){: .btn .btn--success target="_blank" title="Opens in a new tab"}
+I ran a [public free workshop](/events/2024/feb/devops-exec/) which is a shorter version - a dip of the finger - into a full day workshop especially designed for Executives who need to understand the nature and importance of Continuous Delivery and DevOps. I can also offer to come to you place and host this workshop for your managers and executives - for free - only requirement is that gather at least 6 participants:
 
 ### DevOps you say? No Problemo - We’re SAFe®
 

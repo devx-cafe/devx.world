@@ -19,7 +19,7 @@ show-on-list: true
 {{ page.excerpt }}
 {: .kicker}
 
-This event is co-organized between **.the tech collective** and **Copenhagen Code Club**. It's hosted at Implement's headquarters in Hellerup.
+This event is co-organized between **DevX Café** and **Copenhagen Code Club**. It's hosted at .the tech collective's headquarters in Hellerup.
 
 DX - “Developer Experience” and IDP - “Internal Development Platform” are some of the most consistent and contemporary buzzes on the back of DevOps Classic.
 
