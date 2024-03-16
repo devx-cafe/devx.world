@@ -8,12 +8,6 @@ last_modified_at: 2024-03-16T09:48:38-01:00
 
 This site is operated from an obligation and dedication to protect the confidentiality, integrity and accessibility of it's user's data, including personal data. We are continuously working on ensuring compliance with applicable data protection legislation, first and foremost the General Data Protection Regulation (GDPR).
 
-## DevX Café as a community - not a business
-
-`www.devx.world` is a community driven site. On these pages each author speaks with her or his own tone-of-voice. On these pages the editors are dedicated to hosting a community - not running a business. All material on theses pages is free.
-
-The main purpose is to expose our _personal_ passion for utilizing technology and digital solutions to drive meaningful outcomes for people. We love to share our knowledge and experience with others. Most people in tech do. Therefore our stories have discussions enabled, and you are encouraged to join and set your mark - all it takes is a GitHub Account.
-
 ## Editor in Chief
 
 The Editor in Chief is Lars Kruse. If you have any questions reading data policy, or if you need to report content you've found on these pages; please do not hesitate to [reach out to a Lars](mailto:lars@lakruzz.com){: target="_blank"}
