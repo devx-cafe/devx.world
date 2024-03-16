@@ -23,7 +23,7 @@ title                    : "DevX Café - .tech that"
 title_separator          : "-"
 subtitle                 : "Stories and Events"
 name                     : &name "DevX Café" # &name is a YAML anchor which can be *referenced later
-description              : &description "A minimalistic blog and event site for DevX community."
+description              : &description "A minimalistic blog and event site for the DevX community."
 url                      : https://www.devx.world # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "devx-cafe/devx.world"
