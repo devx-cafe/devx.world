@@ -16,7 +16,7 @@ The main purpose is to expose our _personal_ passion for utilizing technology an
 
 ## Editor in Chief
 
-The Editor in Chief is Lars Kruse. If you have any questions regading data policy, or if you need to report content you've found on these pages; please do not hesitate to [reach out to a Lars](mailto:lars@lakruzz.com){: target="_blank"}
+The Editor in Chief is Lars Kruse. If you have any questions reading data policy, or if you need to report content you've found on these pages; please do not hesitate to [reach out to a Lars](mailto:lars@lakruzz.com){: target="_blank"}
 
 ## Data controller
 
@@ -36,7 +36,7 @@ Personally identifiable information (PII) is any data that can be used to identi
 
 We do occasionally use embedded pages (`<iframe>`) or include other services (`<script>`). For instance that is the case for the comments on our stories, which are hosted by GitHub and we occasionally embed Google maps, or redirect to Meetup.com to signup to events.
 
-On these pages you choose yourself, at your own will, wether you want to sign in or not. How you act and behave on there other pages and services - outside `www.devx.world` is considered ourtide the scope of our data policy.
+On these pages you choose yourself, at your own will, wether you want to sign in or not. How you act and behave on there other pages and services - outside `www.devx.world` is considered outside the scope of our data policy.
 
 Also note, that on these external pages, there might be functional cookies set. When that is the case, these are beyond the scope of the cookie consent you have given to `www.devx.world`.
 

@@ -4,11 +4,13 @@ Andreessen
 Asser
 aways
 Borgergade
+codespace
 componentized
 d'etre
 Depeche
 devcontainer
 devcontainers
+devx
 eventbrite
 Fahrenholz
 Flowtech
@@ -53,4 +55,3 @@ toplevel
 Tuborg
 Wenger
 Yeman
-devx

@@ -25,9 +25,11 @@
         }
     ],
     "ignoreRegExpList": [
-        "{%.*%}" // ignore liquid tags
+        "{%.*%}", // ignore liquid tags
+        "`.*`$" // ignore inline code
     ],
     "ignoreWords": [
-        "Anson"
+        "anson",
+        "webdev"
     ]
 }
