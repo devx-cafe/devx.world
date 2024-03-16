@@ -12,14 +12,14 @@ minimal_mistakes_skin    : "ttc" # "ttc", "default," "air", "aqua", "contrast", 
 # Site Settings
 future                   : true 
 locale                   : "en-US"
-title                    : "The Tech Collective"
+title                    : "DevX Café - .tech that"
 title_separator          : "-"
 subtitle                 : "Stories and Events"
-name                     : &name "The Tech Collective" # &name is a YAML anchor which can be *referenced later
-description              : &description "A minimalistic blog and event site for The Tech Collective."
-url                      : https://www.thetechcollective.dev # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "DevX Café" # &name is a YAML anchor which can be *referenced later
+description              : &description "A minimalistic blog and event site for DevX community."
+url                      : https://www.devx.world # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "thetechcollective/thetechcollective.dev"
+repository               : "devx-cafe/devx.world"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : /assets/images/ttc-avatar.github.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -79,9 +79,9 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : &twitter "thetechcollective"
+  username               : 
 facebook:
-  username               : &facebook "thetechcollective"
+  username               :
   app_id                 :
   publisher              :
 og_image                 : "/assets/images/ttc-avatar.github.png" # Open Graph/Twitter default site image
@@ -89,15 +89,15 @@ og_image                 : "/assets/images/ttc-avatar.github.png" # Open Graph/T
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : Organization # Person or Organization (defaults to Person)
-  name                   : "The Tech Collective" # If the user or organization name differs from the site's name
+  name                   : "DevX Café" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://www.linkedin.com/company/thetechcollective"
+    - "https://www.linkedin.com/groups/12711287/"
 
 # Analytics
 analytics:
-  provider               : #"google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : # G-FF0E7JRTKB # IDP - The Tech Collective - www.thetechcollective.dev
+    tracking_id          : G-FF0E7JRTKB # IDP - The Tech Collective - www.thetechcollective.dev
     anonymize_ip         : true
 
 
@@ -108,32 +108,32 @@ author:
   bio              : "We are nurturing an ecosystem of agile teams. We're a collective - with a passion for utilizing technology and digital solutions to drive meaningful outcomes."
   location         : "Copenhagen, Denmark"
   links:
-    - label: "The Tech Collective - official web"
+    - label: "DevX Café - official web"
       icon: "fas fa-fw fa-link"
-      url: "https://www.thetechcollective.eu"
+      url: "https://www.devx.world"
 #   - label: "Twitter"
 #     icon: "fab fa-fw fa-twitter-square"
 #     url: "https://twitter.com/mmistakes"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/thetechcollective"
+      url: "https://github.com/devx-cafe"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/company/thetechcollective"
+      url: "https://www.linkedin.com/groups/12711287/"
 
 
 # Site Footer
 footer:
   links:
-    - label: "The Tech Collective - official web"
+    - label: "DevX Café - Meetup Group"
       icon: "fas fa-fw fa-link"
-      url: "https://thetechcollective.eu"
+      url: "https://www.meetup.com/cph-devx-cafe/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/thetechcollective"
+      url: "https://github.com/devx-cafe"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/company/thetechcollective"
+      url: "https://www.linkedin.com/groups/12711287/"
 
 
 # Reading Files
