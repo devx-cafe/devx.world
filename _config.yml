@@ -124,16 +124,22 @@ author:
 
 # Site Footer
 footer:
+  powered_by: # Enabled ig both name and url are defined
+    name: ".the tech collective"
+    url: "https://thetechcollective.eu"
   links:
     - label: "DevX Café - Meetup Group"
       icon: "fas fa-fw fa-link"
+      external: true
       url: "https://www.meetup.com/cph-devx-cafe/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
+      external: true
       url: "https://github.com/devx-cafe"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/groups/12711287/"
+      external: true
 
 
 # Reading Files
