@@ -67,7 +67,7 @@ Citizen Developers and the weapons they take to battle are definitely included i
 
 ...Even the world of software!
 
-# About the web site 
+## About the web site
 
 This is the source code to the static web site hosted on https://www.devx.world. The web is programmed in Jekyll (MarkDown, Liquid, JavaScript and SASS).
 
