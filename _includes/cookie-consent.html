@@ -13,14 +13,14 @@
 </style>
 <div id="cookie-notice">
     <span>
-        Say <em>"Yes!"</em> to functional 3<sup>rd</sup> party cookies 🍪
+        Say <em>"Yes!"</em> to functional 3<sup>rd</sup> party cookies
     </span>
     <a id="cookie-notice-accept" class="btn btn--success">
-        Yes 💪
+        🍪💪 Yes 
     </a>
     We're not evil, we never track PII data
     <a href="/terms/" class="btn btn--warning">
-         Read our terms 😈
+        😈 Read our terms 
     </a>
 </div>
 <script>
@@ -48,7 +48,7 @@
     }
 
     if(readCookie('cookie-notice-dismissed')=='true') {
-        {% include 3rd-prarty-scripts.html %}
+        {% include 3rd-party-scripts.html %}
     } else {
         document.getElementById('cookie-notice').style.display = 'block';
     }
