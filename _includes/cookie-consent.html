@@ -51,7 +51,7 @@
 
     if(readCookie('cookie-notice-dismissed')=='true') {
 
-        {% if jekyll.environment == 'production' and site.analytics.provider == 'google-tag' and page.analytics != false %}
+        {% if jekyll.environment == 'production' and site.analytics.provider == 'google-gtag' and page.analytics != false %}
 
         var gtmScript = document.createElement('script');
         gtmScript.async = true;
