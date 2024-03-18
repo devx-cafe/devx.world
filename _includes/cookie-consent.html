@@ -8,14 +8,11 @@
 </style>
 <div id="cookie-notice">
     <span>
-        Say <em>"Yes!"</em> to cookies
+        Say <em>"Yes!"</em> to cookies 
     </span>
     <a id="cookie-notice-accept" class="btn btn--success">
         🍪💪 Yes 
     </a>
-    <button id="cookie-notice-erase" class="btn btn--danger">
-        🗑️ Erase Consent
-    </button>
     We're not evil, we <em>never</em> track PII data
     <a href="/terms/" class="btn btn--warning">
         😈 Read our terms 
@@ -54,6 +51,8 @@
 
     if(readCookie('cookie-notice-dismissed')=='true') {
 
+        {% if jekyll.environment == 'production' and site.analytics.provider == 'google-tag' and page.analytics != false %}
+
         var gtmScript = document.createElement('script');
         gtmScript.async = true;
         gtmScript.src = "https://www.googletagmanager.com/gtag/js?id={{ site.analytics.google.tracking_id }}";
@@ -63,6 +62,7 @@
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());      
         gtag('config', '{{ site.analytics.google.tracking_id }}', { 'anonymize_ip': {{ site.analytics.google.anonymize_ip | default: false }}});
+        {% endif %}
         
     } else {
         document.getElementById('cookie-notice').style.display = 'block';

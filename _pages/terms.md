@@ -22,9 +22,14 @@ We carefully monitor, that we do not utilize services from US based companies un
 
 Currently the DevX Café community utilizes services from GitHub, Meetup, Microsoft and Google. They have all entered the Data Privacy Framework program.
 
+## The cookies we set - If you let us
+
+- We set one cookie of our own, to track that answered 'yes' to let us use cookies
+- We set two Google Analytics cookies, that helps us with insigts into _how_ our guests browse our website but guaranteed nothing about _who_ you are.
+
 ## We do not collect any PII data
 
-Personally identifiable information (PII) is any data that can be used to identify someone. On this specific low-fidelity site we do use cookies to track how our guests navigate our website, but we have anonymized all data and we do not elicit _any_ kind of PII data - not even you IP address; We're here to share knowledge and insights - not to collect data!
+Personally identifiable information (PII) is any data that can be used to identify someone. On this specific low-fidelity site we do use cookies to track _how_ our guests navigate our website, but we have anonymized all data and we do not elicit _any_ kind of PII data - not even you IP address; We're here to share knowledge and insights - not to collect data!
 
 ## Embedded pages, services and redirects to other services
 
