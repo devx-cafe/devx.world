@@ -25,7 +25,7 @@ Currently the DevX Café community utilizes services from GitHub, Meetup, Micros
 ## The cookies we set - If you let us
 
 - We set one cookie of our own, to track that answered 'yes' to let us use cookies
-- We set two Google Analytics cookies, that helps us with insigts into _how_ our guests browse our website but guaranteed nothing about _who_ you are.
+- We set two Google Analytics cookies, that helps us with insights into _how_ our guests browse our website but guaranteed nothing about _who_ you are.
 
 ## We do not collect any PII data
 
